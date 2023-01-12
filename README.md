@@ -1,6 +1,7 @@
 # newBilisim
 
 MSSQL server için komutlar;
+----------------------------
 
 
 Create database newbilisim
